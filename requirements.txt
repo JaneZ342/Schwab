@@ -1,0 +1,7 @@
+pandas>=1.5
+openpyxl>=3.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+
+# Optional: Install rapidfuzz for 3-10x faster matching
+# pip install rapidfuzz
